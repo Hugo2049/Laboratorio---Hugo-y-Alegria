@@ -1,4 +1,4 @@
-﻿Public Class Form1
+Public Class Form1 2
     Private Sub Button2_Click(sender As Object, e As EventArgs) Handles Button2.Click
         Me.Hide()
         Registros.Show()
